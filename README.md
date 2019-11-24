@@ -1,6 +1,6 @@
 Wanted/Had to learn haskell for a uni course. Basic 101 stuff here into functional programming using haskell.
 
-RESOURCES
+##### RESOURCES
 
 [Learn you a Haskell](http://learnyouahaskell.com/chapters)
 
