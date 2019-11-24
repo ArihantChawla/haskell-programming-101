@@ -1,0 +1,12 @@
+-- 2 * -4         -> ERROR
+-- 2 * (-4)       -> CORRECT
+-- 3 / 2          -> 1.5 (not 1 as in C)
+-- 3 ^ (19*19)    -> ACTUALLY EVALUATES (no overflow)
+-- True && False  -> False
+-- True || False  -> True
+-- not True       -> False
+-- 3 == 4 		  -> False
+-- 3 /= 4 		  -> True
+-- max 7 4 		  -> 7
+-- min 3 2*3	  -> 6, cuz functions have higher precedence than arithmatic operators
+-- (min 3 2)*3 	  -> Same as above
