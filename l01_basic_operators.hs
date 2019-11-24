@@ -1,6 +1,8 @@
 -- 2 * -4         -> ERROR
 -- 2 * (-4)       -> CORRECT
 -- 3 / 2          -> 1.5 (not 1 as in C)
+-- mod 3 2		-> 1
+-- div 19 3		-> 6
 -- 3 ^ (19*19)    -> ACTUALLY EVALUATES (no overflow)
 -- True && False  -> False
 -- True || False  -> True
