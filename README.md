@@ -16,4 +16,5 @@ Wanted/Had to learn haskell for a uni course. Basic 101 stuff here into function
 
 [Haskell Subreddit](https://www.reddit.com/r/haskell/)
 
+[Inbuilt Functions](https://www.cse.unsw.edu.au/~en1000/haskell/inbuilt.html)
 
